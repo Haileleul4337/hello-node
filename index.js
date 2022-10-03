@@ -1,6 +1,6 @@
 
 const printName = () => {
-    console.log("alemu kemelmu");
+    console.log("Hello Node.js!");
 }
 
 printName();
