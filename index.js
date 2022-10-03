@@ -1,6 +1,6 @@
 
 const printName = () => {
-    console.log("alemu");
+    console.log("alemu kemelmu");
 }
 
 printName();
